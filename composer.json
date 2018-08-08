@@ -1,0 +1,17 @@
+{
+  "name": "dropvars/dropvars",
+  "description": "drop variables into a string via placeholders",
+  "authors": [
+    {
+      "name": "Mordi Sacks"
+    }
+  ],
+  "require": {
+    "php": "^7.1"
+  },
+  "autoload": {
+    "files": [
+      "dropVars.php"
+    ]
+  }
+}
